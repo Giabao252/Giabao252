@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently studying Computer Science at Denison University<br>👯 This summer, I am working as a software engineer intern at FPT Software - Financial Services Group<br>🤝 I’m looking for software engineer internship opportunities for Summer 2025<br>🌱 I’m currently reinforcing my backend development and database design/implementation with NestJs (TypeScript), MySQL, and TypeORM<br><br>📫 How to reach me: luu_b1@denison.edu<br>👨‍💻 All of my projects are available at https://bao-luu-portfolio.vercel.app/
+🔭 I’m currently studying Computer Science at Denison University<br>👯 This summer, I am working as a software engineer intern at FPT Software - Financial Services Group<br>🤝 I’m looking for software engineer internship opportunities for Summer 2025<br>🌱 I’m currently reinforcing my backend development and database design/implementation with NestJs (TypeScript), MySQL, and TypeORM<br><br>📫 How to reach me: luugiabaoluu24@gmail.com<br>👨‍💻 All of my projects are available at https://bao-luu-portfolio.vercel.app/
 
 
 ## 🌐 Socials:
